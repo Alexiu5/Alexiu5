@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex
+- 😼 I have a cat called Orion
+- 🌱 I'm JS Fullstack developer 
+- 📫 Reach me on twitter @alexiu5s
